@@ -46,3 +46,9 @@ pip install -r requirements.txt
 # Run notebook
 jupyter notebook Diwali_Sales_Analysis.ipynb
 ```
+
+## 📈 Future Enhancements
+
+- 📌 Build interactive dashboard **(Power BI / Tableau)**
+- 🤖 Add **ML** models for sales prediction
+- 📢 Automate reporting for **business users**
