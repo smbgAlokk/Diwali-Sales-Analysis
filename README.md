@@ -63,7 +63,4 @@ jupyter notebook Diwali_Sales_Analysis.ipynb
 
 ---
 
-```
-<p align="center">⭐ If you found this project useful, give it a star! ⭐</p>
-
-```
+<p align="center">⭐ If you found this project useful, give it a star! ⭐</p>```
