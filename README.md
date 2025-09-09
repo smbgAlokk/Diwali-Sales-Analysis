@@ -36,3 +36,9 @@ The goal of this project is to analyze **Diwali sales data** and extract actiona
 ---
 
 ## 📂 Project Structure
+
+📦 Python_Diwali_Sales_Analysis
+┣ 📜 Diwali_Sales_Analysis.ipynb # Main analysis notebook
+┣ 📜 requirements.txt # Python dependencies (optional)
+┣ 📜 README.md # Project documentation
+┗ 📂 dataset/ # (Optional) contains sample dataset
