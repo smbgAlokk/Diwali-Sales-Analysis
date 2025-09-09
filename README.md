@@ -57,9 +57,12 @@ jupyter notebook Diwali_Sales_Analysis.ipynb
 
 ## 🙋 Author
 
-- 📧 your-email@example.com
-- 🔗 LinkedIn
-- 🌐 Portfolio
+<p align="center">
+  <a href="mailto:contact.alokkumar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alokkumar04/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/u/smbgAlok/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UC0ITEPla-cz6U9YXqC-Se_A"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+</p>
 
 ---
 
