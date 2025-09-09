@@ -35,7 +35,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/<your-username>/Diwali_Sales_Analysis.git
+git clone https://github.com/smbgAlokk/Diwali-Sales-Analysis.git
 
 # Navigate into folder
 cd Diwali_Sales_Analysis
@@ -52,3 +52,15 @@ jupyter notebook Diwali_Sales_Analysis.ipynb
 - 📌 Build interactive dashboard **(Power BI / Tableau)**
 - 🤖 Add **ML** models for sales prediction
 - 📢 Automate reporting for **business users**
+
+---
+
+## 🙋 Author
+
+- 📧 your-email@example.com
+- 🔗 LinkedIn
+- 🌐 Portfolio
+
+---
+
+<p align="center">⭐ If you found this project useful, give it a star! ⭐</p> ```
